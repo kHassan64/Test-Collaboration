@@ -9,10 +9,10 @@ namespace Test_Collaboration
         [TestMethod]
         public void TestMethod1()
         {
-            
-            //This is "Adjust title in startup0" comment
+
             //This is my second changes attempt
 
+            //This is "Adjust title in startup0" comment adjust-title-in-startup
         }
     }
 }
