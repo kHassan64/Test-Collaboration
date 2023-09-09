@@ -9,6 +9,8 @@ namespace Test_Collaboration
         [TestMethod]
         public void TestMethod1()
         {
+            string name = "khatab";
+                int num = 123;
 
             //This is my second changes attempt
 
